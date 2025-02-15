@@ -24,8 +24,8 @@ Este repositório contém materiais, projetos e atividades relacionados à disci
 - **Outros:** ?.
 
 ## 👤 Autor
-**Caio Eduardo**  
-*Aluno(a) do curso de Análise e Desenvolvimento de Sistemas*  
+**Caio Eduardo Nascimento Martins**  
+*Aluno(a) do curso de Análise e Desenvolvimento de Sistemas.*  
 [Linkedin](https://linkedin.com/in/caio3martins)
 
 ---
