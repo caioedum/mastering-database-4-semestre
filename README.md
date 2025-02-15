@@ -12,11 +12,11 @@ Este repositório contém materiais, projetos e atividades relacionados à disci
 - Resumos e anotações.
 
 ## 📂 Estrutura do Repositório
-├── /projetos # Projetos desenvolvidos na disciplina
-├── /aulas # Aulas realizadas
-├── /atividades # Atividades práticas e exercícios
-├── /materiais # Resumos e materiais de estudo
-└── README.md # Este arquivo
+├── /projetos       # Projetos desenvolvidos na disciplina  
+├── /aulas          # Aulas realizadas  
+├── /atividades     # Atividades práticas e exercícios  
+├── /materiais      # Resumos e materiais de estudo  
+└── README.md       # Este arquivo  
 
 ## 🚀 Tecnologias Utilizadas
 - **Linguagens:** SQL, PL/SQL e MQL.
@@ -26,7 +26,7 @@ Este repositório contém materiais, projetos e atividades relacionados à disci
 ## 👤 Autor
 **Caio Eduardo**  
 *Aluno(a) do curso de Análise e Desenvolvimento de Sistemas*  
-[Seu LinkedIn](https://linkedin.com/in/caio3martins) | [Seu GitHub](https://github.com/caioedum)
+[Linkedin](https://linkedin.com/in/caio3martins)
 
 ---
 
